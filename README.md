@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Şahan
+<!-- Animated Typing GIF -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&width=440&lines=Hi%2C+I'm+%C5%9Eahan+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Tech+Explorer+%F0%9F%8C%99" alt="Typing Animation">
 
 **Full-Stack Developer | Open Source Enthusiast | Tech Explorer**
 
@@ -55,8 +56,12 @@ I'm a passionate developer based in **Ankara, Turkey**, exploring the endless po
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickzsche&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickzsche&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickzsche&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickzsche&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickzsche&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=FFA500&currStreakLabel=8A2BE2" alt="Streak Stats"/>
 </div>
 
 ---
@@ -88,8 +93,14 @@ Let's connect and build something amazing together!
 
 <div align="center">
 
+<!-- Animated Hand Wave -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
 ⭐ **Star some repos if you find them useful!** ⭐
 
 Made with ❤️ by Şahan
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 </div>
