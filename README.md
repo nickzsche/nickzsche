@@ -2,7 +2,7 @@
 
 <br><br>
 
-# <img src="https://media.giphy.com/media/qgQUggAC3PPlCVxzGw/giphy.gif" width="40"> ŞAHAN
+
 
 **Full-Stack Developer | Open Source Enthusiast**
 
