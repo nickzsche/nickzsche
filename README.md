@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:00FF41,100:008F11&height=120&section=header"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=2000&pause=1000&color=00FF41&center=true&lines=MATRIX">
 
 <br>
@@ -81,7 +79,5 @@
 
 > *"Unfortunately, no one can be told what the Matrix is.*  
 > *You have to see it for yourself."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008F11,50:00FF41,100:003300&height=100&section=footer">
 
 </div>
