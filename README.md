@@ -1,130 +1,81 @@
-<div align="center">
+# 👋 Merhaba, Ben Şahan Hasret
 
-<br><br>
-
-
-
-**Full-Stack Developer | Open Source Enthusiast**
-
-📍 Ankara, Turkey
-
-<br><br>
+**Senior Yazılım Geliştirici & Udemy Eğitmeni** | Ankara, Türkiye 🇹🇷
 
 ---
 
-<br>
+## 🎓 Eğitim Profili
 
-### 🛠️ Tech Stack
+Binlerce öğrenciye yazılım ve siber güvenlik eğitimi veriyorum. Gerçek dünya projeleriyle pratik beceriler kazandırmak odaklı çalışıyorum.
 
-<br>
-
-**Languages**
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-
-<br><br>
-
-**Frameworks**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-
-<br><br>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-
-<br><br>
+| 📚 Kurslarım | ⭐ Değerlendirme | 👥 Öğrenci |
+|:---:|:---:|:---:|
+| 5+ kurs | 4.7/5 | 13.000+ |
 
 ---
 
-<br>
+## 💼 Deneyim
 
-### 📊 GitHub Stats
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nickzsche&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00FF41&icon_color=00FF41" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickzsche&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00FF41" height="165">
-
-<br><br>
+- **Proje Yöneticisi** @ Düzen Soft (2021 - Günümüz)
+- **Kurucu** @ Agartha Topluluğu (13.000+ üye)
+- **Eğitmen** @ Udemy (2019 - Günümüz)
 
 ---
 
-<br>
+## 🛠️ Teknik Yetkinlikler
 
-### 🔥 Streak Stats
+### Diller
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nickzsche&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00FF41&ring=00FF41&fire=FF6600">
-
-<br><br>
-
----
-
-<br>
-
-### 🐍 Contribution Snake
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
-<br><br>
+### Frameworks & Araçlar
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-<br>
+## 📊 GitHub İstatistikleri
 
-### 📫 Connect
-
-<br>
-
-<a href="mailto:sahanhasretankara@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="https://sahanhasret.com.tr"><img src="https://img.shields.io/badge/Website-00FF41?style=flat-square&logo=googlechrome&logoColor=black"></a>
-<a href="https://twitter.com/iamagartha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-<a href="https://linkedin.com/in/niczsche"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/nickzsche"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-
-<br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nickzsche&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickzsche&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
-<br>
+## 🔥 Konuşma
 
-### 🔴🔵 Pills
-
-<br>
-
-<a href="https://sahanhasret.com.tr"><img src="https://img.shields.io/badge/RED%20PILL-Enter%20Matrix-FF0000?style=flat-square"></a>
-<a href="https://github.com/nickzsche"><img src="https://img.shields.io/badge/BLUE%20PILL-Stay%20Here-0066FF?style=flat-square"></a>
-
-<br><br>
+> "Kod yazmak bir sanat, öğretmek ise o sanatı paylaşmaktır."
 
 ---
 
-<br>
+## 📫 İletişim
 
-<img src="https://komarev.com/ghpvc/?username=nickzsche&style=flat-square&color=00FF41&label=Profile+Views">
+<a href="https://www.udemy.com/user/shahanhasret/">
+  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy">
+</a>
+<a href="https://linkedin.com/in/sahanhasret">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/iamagartha">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+<a href="mailto:info@sahanhasret.com.tr">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://sahanhasret.com.tr">
+  <img src="https://img.shields.io/badge/Web Site-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+</a>
 
-<br><br>
+---
 
-> *"The Matrix has you..."*
-
-<br><br>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nickzsche&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views">
+</p>
