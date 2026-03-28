@@ -44,8 +44,23 @@ Binlerce öğrenciye yazılım ve siber güvenlik eğitimi veriyorum. Gerçek d�
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nickzsche&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickzsche&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Top Languages" height="165"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nickzsche&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickzsche&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Top Languages"/>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nickzsche&style=flat-square&color=6366f1)
+
+---
+
+## 📦 Repolarım
+
+<p align="center">
+  <a href="https://github.com/nickzsche/nickzsche">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickzsche&repo=nickzsche&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Profile Repo"/>
+  </a>
+  <a href="https://github.com/nickzsche/webterminal-pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickzsche&repo=webterminal-pro&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="WebTerminal Pro"/>
+  </a>
 </p>
 
 ---
@@ -74,8 +89,3 @@ Binlerce öğrenciye yazılım ve siber güvenlik eğitimi veriyorum. Gerçek d�
   <img src="https://img.shields.io/badge/Web Site-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nickzsche&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views">
-</p>
