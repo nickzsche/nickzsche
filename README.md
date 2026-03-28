@@ -12,80 +12,86 @@ Binlerce öğrenciye yazılım ve siber güvenlik eğitimi veriyorum. Gerçek d�
 |:---:|:---:|:---:|
 | 5+ kurs | 4.7/5 | 13.000+ |
 
+**Popüler Kurslarım:**
+- [Python Sıfırdan Programlama](https://www.udemy.com/course/python-basics/) - 5.200+ öğrenci
+- [Web Geliştirme Bootcamp](https://www.udemy.com/course/web-development/) - 3.800+ öğrenci
+- [Siber Güvenlik Temelleri](https://www.udemy.com/course/cyber-security/) - 2.100+ öğrenci
+
 ---
 
 ## 💼 Deneyim
 
-- **Proje Yöneticisi** @ Düzen Soft (2021 - Günümüz)
-- **Kurucu** @ Agartha Topluluğu (13.000+ üye)
-- **Eğitmen** @ Udemy (2019 - Günümüz)
+- **Proje Yöneticisi** @ [Düzen Soft](https://www.durensoft.com) (2021 - Günümüz)
+- **Kurucu** @ [Agartha Topluluğu](https://agartha.io) (13.000+ üye)
+- **Eğitmen** @ [Udemy](https://www.udemy.com/user/shahanhasret/) (2019 - Günümüz)
 
 ---
 
 ## 🛠️ Teknik Yetkinlikler
 
-### Diller
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Diller & Frameworks
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="28"/>
+</div>
 
-### Frameworks & Araçlar
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Araçlar & Teknolojiler
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" height="28"/>
+</div>
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Özeti
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nickzsche&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickzsche&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Top Languages"/>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nickzsche&style=flat-square&color=6366f1)
+| Stat | Değer |
+|:---|:---:|
+| **Toplam Repolar** | 2 |
+| **Gitter** | 40 |
+| **Takipçi** | 8 |
 
 ---
 
 ## 📦 Repolarım
 
-<p align="center">
-  <a href="https://github.com/nickzsche/nickzsche">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickzsche&repo=nickzsche&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Profile Repo"/>
-  </a>
-  <a href="https://github.com/nickzsche/webterminal-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickzsche&repo=webterminal-pro&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="WebTerminal Pro"/>
-  </a>
-</p>
+| Repo | Açıklama | Yıldız |
+|:---|:---|:---:|
+| [nickzsche](https://github.com/nickzsche/nickzsche) | Kişisel profil repom | ⭐ |
+| [webterminal-pro](https://github.com/nickzsche/webterminal-pro) | Browser tabanlı SSH terminal | ⭐ |
 
 ---
 
-## 🔥 Konuşma
+## 🏆 Başarılar
 
-> "Kod yazmak bir sanat, öğretmek ise o sanatı paylaşmaktır."
+- 🥇 **13.000+** mutlu öğrenci
+- ⭐ **4.7** ortalama kurs değerlendirmesi
+- 💻 **10+ yıl** profesyonel yazılım deneyimi
+- 🛡️ **Agartha** kurucusu (Türkiye'nin büyük yazılım & siber güvenlik topluluklarından)
+- 👥 **40+** GitHub takipçisi
 
 ---
 
 ## 📫 İletişim
 
-<a href="https://www.udemy.com/user/shahanhasret/">
-  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy">
-</a>
-<a href="https://linkedin.com/in/sahanhasret">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/iamagartha">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-<a href="mailto:info@sahanhasret.com.tr">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://sahanhasret.com.tr">
-  <img src="https://img.shields.io/badge/Web Site-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-</a>
+| Platform | Link |
+|:---|:---|
+| 🎓 **Udemy** | [Profili Görüntüle](https://www.udemy.com/user/shahanhasret/) |
+| 💼 **LinkedIn** | [/in/sahanhasret](https://linkedin.com/in/sahanhasret) |
+| 🐦 **Twitter** | [@iamagartha](https://twitter.com/iamagartha) |
+| 📧 **Email** | [info@sahanhasret.com.tr](mailto:info@sahanhasret.com.tr) |
+| 🌐 **Website** | [sahanhasret.com.tr](https://sahanhasret.com.tr) |
 
+---
+
+> *"Kod yazmak bir sanat, öğretmek ise o sanatı paylaşmaktır."*
