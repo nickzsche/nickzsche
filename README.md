@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/avatar.png" alt="Şahan Hasret Avatar" width="150" style="border-radius: 50%;"/>
+  <img src="assets/avatar.png" alt="Şahan Hasret Avatar" width="100%"/>
 </div>
 
 # 👋 Merhaba, Ben Şahan Hasret
