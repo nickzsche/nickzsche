@@ -61,9 +61,9 @@ Binlerce öğrenciye yazılım ve siber güvenlik eğitimi veriyorum. Gerçek d�
 
 | Stat | Değer |
 |:---|:---:|
-| **Toplam Repolar** | 2 |
+| **Toplam Repolar** | 4 |
 | **Gitter** | 40 |
-| **Takipçi** | 8 |
+| **Takipçi** | 41 |
 
 ---
 
@@ -71,8 +71,10 @@ Binlerce öğrenciye yazılım ve siber güvenlik eğitimi veriyorum. Gerçek d�
 
 | Repo | Açıklama | Yıldız |
 |:---|:---|:---:|
-| [nickzsche](https://github.com/nickzsche/nickzsche) | Kişisel profil repom | ⭐ |
-| [webterminal-pro](https://github.com/nickzsche/webterminal-pro) | Browser tabanlı SSH terminal | ⭐ |
+| [Ai-Pacino](https://github.com/nickzsche/Ai-Pacino) | Multi-agent cybersecurity AI | ⭐ 1 |
+| [aegis-owasp](https://github.com/nickzsche/aegis-owasp) | OWASP security toolkit | ⭐ 0 |
+| [webterminal-pro](https://github.com/nickzsche/webterminal-pro) | Browser tabanlı SSH terminal | ⭐ 0 |
+| [nickzsche](https://github.com/nickzsche/nickzsche) | Kişisel profil repom | ⭐ 0 |
 
 ---
 
@@ -82,7 +84,7 @@ Binlerce öğrenciye yazılım ve siber güvenlik eğitimi veriyorum. Gerçek d�
 - ⭐ **4.7** ortalama kurs değerlendirmesi
 - 💻 **10+ yıl** profesyonel yazılım deneyimi
 - 🛡️ **Agartha** kurucusu (Türkiye'nin büyük yazılım & siber güvenlik topluluklarından)
-- 👥 **40+** GitHub takipçisi
+- 👥 **41+** GitHub takipçisi
 
 ---
 
